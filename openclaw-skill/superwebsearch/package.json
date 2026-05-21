@@ -1,0 +1,8 @@
+{
+  "name": "superwebsearch",
+  "version": "1.0.0",
+  "description": "Live public web search and URL reading through the 6551 SuperWebsearch API",
+  "homepage": "https://www.newsliquid.com/mcp",
+  "keywords": ["newsliquid", "6551", "websearch", "mcp", "search", "research"]
+}
+
